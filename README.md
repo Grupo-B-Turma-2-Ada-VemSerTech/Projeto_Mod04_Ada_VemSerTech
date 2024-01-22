@@ -1,6 +1,14 @@
 # Projeto_Mod04_Ada_VemSerTech
 Repositorio para o desenvolvimento do projeto 4 Grupo B - Técnicas de Programação I
 
+# Equipe:
+- Adriely
+- Amanda
+- Daniel
+- Lorrany
+- Ricardo
+- Thiago
+
 # Análises de dados em Python dos microdados do ENEM 2022
 
 Este repositório contém um conjunto de scripts em Python para realizar análises de dados dos microdados do ENEM 2022.
