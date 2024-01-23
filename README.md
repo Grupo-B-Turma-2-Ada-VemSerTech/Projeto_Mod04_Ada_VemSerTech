@@ -39,6 +39,15 @@ Para usar os scripts, você precisará instalar os seguintes pacotes Python:
 
 7- Análise da distribuição de acordo com o Tipo Escolar (Pública ou Privada). Analisamos a média das notas de cada disciplina pelo tipo de escola.
 
+8- Análise do total de participantes por estado.
+
+9- Análise da quantidade de redações nota 1000 por estado.
+
+10- Análise da renda mensal dos participantes.
+
+11- Análise da comparação da Média do enem com a Renda e Grupo Étnico/Racial.
+
+12- Análise das maiores médias.
 
 
 ## Conclusões
