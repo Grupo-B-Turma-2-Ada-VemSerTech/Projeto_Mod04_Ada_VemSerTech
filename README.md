@@ -70,3 +70,13 @@ Para usar os scripts, você precisará instalar os seguintes pacotes Python:
 
 7- Concluímos que estudantes de escolas privadas obtiveram uma nota média maior no ENEM 2022 em comparação com os estudantes de escolas públicas.
 Essa disparidade pode indicar diferenças nos recursos educacionais que impactam o desempenho acadêmico.
+
+8-
+
+9-Dos quase 2,4 milhões de participantes do ENEM 2022, apenas 32 (0,001%) alcançaram a nota máxima na redação. Entre os estados, somente 12 estados brasileiros e o Distrito Federal tiveram estudantes que conquistaram a pontuação máxima (1000) nessa prova. Destaca-se a região Sudeste, que se sobressaiu com um total de 21 redações nota 1000, sendo o estado do Rio de Janeiro responsável por 12 dessas pontuações, representando 37,5%. A região do Nordeste também merece destaque, apresentando um índice de sete redações com nota máxima
+
+10-
+
+11-
+
+12-
