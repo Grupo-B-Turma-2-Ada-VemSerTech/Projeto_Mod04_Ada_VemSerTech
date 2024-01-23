@@ -77,6 +77,6 @@ Essa disparidade pode indicar diferenças nos recursos educacionais que impactam
 
 10-
 
-11-
+11-A análise visual revela padrões nas médias de notas do ENEM em relação à renda e etnia. Observa-se que pessoas de renda mais alta possuem médias mais altas. E que pessoas brancas possuem médias mais altas que os outros grupos étnicos, independente da renda familiar. E a presença de outliers realça valores atípicos, enquanto as linhas no interior das caixas indicam a mediana.
 
 12-
