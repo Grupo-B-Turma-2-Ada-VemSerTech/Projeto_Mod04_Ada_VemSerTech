@@ -49,6 +49,36 @@ Para usar os scripts, você precisará instalar os seguintes pacotes Python:
 
 12- Análise das maiores médias.
 
+## Gráficos Utilizados
+
+<div style="display:flex; justify-content:center;">
+    <figure style="margin:5px;">
+        <img src="Imagens/mapa.png" style="width:110px; height:110px;">
+        <figcaption style="text-align:center;"> Mapa Geográfico</figcaption>
+    </figure>
+    <figure style="margin:5px;">
+        <img src="Imagens/caixas.png" style="width:110px; height:110px;">
+        <figcaption style="text-align:center;"> Diagrama de Caixa</figcaption>
+    </figure>
+    <figure style="margin:5px;">
+        <img src="Imagens/piramide.png" style="width:110px; height:110px;">
+        <figcaption style="text-align:center;"> Gráfico de Pirâmide</figcaption>
+    </figure>
+</div>
+
+
+<div style="display:flex; justify-content:center;">
+    <figure style="margin:5px;">
+        <img src="Imagens/barras.png" style="width:100px; height:100px;">
+        <figcaption> Gráfico de barras </figcaption>
+    </figure>
+    <figure style="margin:5px;">
+        <img src="Imagens/pie.png" style="width:100px; height:100px;">
+        <figcaption>Gráfico de pizza </figcaption>
+    </figure>
+    
+</div>
+
 
 ## Conclusões
 
