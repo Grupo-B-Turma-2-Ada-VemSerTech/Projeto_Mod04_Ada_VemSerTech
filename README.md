@@ -51,31 +51,20 @@ Para usar os scripts, você precisará instalar os seguintes pacotes Python:
 
 ## Gráficos Utilizados
 
-<div style="display:flex; justify-content:center; flex-wrap: wrap;">
-    <figure style="margin:5px; text-align:center;">
-        <img src="Imagens/mapa.png" style="width:110px; height:110px;">
-        <figcaption>Mapa Geográfico</figcaption>
-    </figure>
-    <figure style="margin:5px; text-align:center;">
-        <img src="Imagens/caixas.png" style="width:110px; height:110px;">
-        <figcaption>Diagrama de Caixa</figcaption>
-    </figure>
-    <figure style="margin:5px; text-align:center;">
-        <img src="Imagens/piramide.png" style="width:110px; height:110px;">
-        <figcaption>Gráfico de Pirâmide</figcaption>
-    </figure>
+<div align="center">
+    
+| <img src="Imagens/mapa.png" alt="Mapa Geográfico" width="100px" height="100px"> | <img src="Imagens/caixas.png" alt="Diagrama de Caixa" width="100px" height="100px"> | <img src="Imagens/piramide.png" alt="Gráfico de Pirâmide" width="100px" height="100px"> |
+|:--:|:--:|:--:|
+| **Mapa Geográfico** | **Diagrama de Caixa** | **Gráfico de Pirâmide** |
+    
 </div>
 
-<div style="display:flex; justify-content:center; align-items: flex-end;">
-    <figure style="margin:5px; text-align:center;">
-        <img src="Imagens/barras.png" style="width:100px; height:100px;">
-        <figcaption>Gráfico de barras</figcaption>
-    </figure>
-    <figure style="margin:5px; text-align:center;">
-        <img src="Imagens/pie.png" style="width:100px; height:100px;">
-        <figcaption>Gráfico de pizza</figcaption>
-    </figure>
-</div>
+<div align="center">
+    
+| <img src="Imagens/barras.png" alt="Gráfico de Barras" width="100px" height="100px"> | <img src="Imagens/pie.png" alt="Gráfico de pizza" width="100px" height="100px"> | 
+|:--:|:--:|
+| **Gráfico de Barras** | **Gráfico de Pizza** | 
+</div>    
 
 ## Conclusões
 
