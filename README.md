@@ -69,7 +69,7 @@ Para usar os scripts, você precisará instalar os seguintes pacotes Python:
 
 ## Conclusões
 
-1- 
+1- A maioria dos inscritos foram fazer as provas do Enem, e apenas 0.13% foram eliminados.
 
 2- Os outliers inferiores das provas objetivas ocorreram quando o aluno zerou a prova.
 - A redação foi a prova com a maior dispersão de dados.
@@ -92,7 +92,7 @@ Essa disparidade pode indicar diferenças nos recursos educacionais que impactam
 
 9-Dos quase 2,4 milhões de participantes do ENEM 2022, apenas 32 (0,001%) alcançaram a nota máxima na redação. Entre os estados, somente 12 estados brasileiros e o Distrito Federal tiveram estudantes que conquistaram a pontuação máxima (1000) nessa prova. Destaca-se a região Sudeste, que se sobressaiu com um total de 21 redações nota 1000, sendo o estado do Rio de Janeiro responsável por 12 dessas pontuações, representando 37,5%. A região do Nordeste também merece destaque, apresentando um índice de sete redações com nota máxima
 
-10-
+10- Nota-se que a faixa da população com menor renda tem mais inscritos no ENEM, tal situação pode se justificar pelo fato de representar a maior densidade da população brasileira e pelo fato de ser comum nestas classes a ideia de o estudo é fator relevamente para a ascenção social. Como o ENEM é uma oportunidade para o ingresso no ensino superior gratuito, há o empenho dos estudantes de menor renda em prestar a prova do ENEM para tentar o ingresso no ensino superior.
 
 11-A análise visual revela padrões nas médias de notas do ENEM em relação à renda e etnia. Observa-se que pessoas de renda mais alta possuem médias mais altas. E que pessoas brancas possuem médias mais altas que os outros grupos étnicos, independente da renda familiar. E a presença de outliers realça valores atípicos, enquanto as linhas no interior das caixas indicam a mediana.
 
