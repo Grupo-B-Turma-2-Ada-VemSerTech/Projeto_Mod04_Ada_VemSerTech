@@ -19,6 +19,7 @@ Primeiramente foi realizado uma limpeza de colunas do arquivo original para faci
 Para usar os scripts, você precisará instalar os seguintes pacotes Python:
 
 - ``pandas``
+- ``numpy``
 - ``geopandas``
 - ``matplotlib``
 - ``Seaborn``
@@ -96,4 +97,4 @@ Essa disparidade pode indicar diferenças nos recursos educacionais que impactam
 
 11-A análise visual revela padrões nas médias de notas do ENEM em relação à renda e etnia. Observa-se que pessoas de renda mais alta possuem médias mais altas. E que pessoas brancas possuem médias mais altas que os outros grupos étnicos, independente da renda familiar. E a presença de outliers realça valores atípicos, enquanto as linhas no interior das caixas indicam a mediana.
 
-12-
+12-Das 50 maiores médias analisadas apenas 2 foram de alunos de escola pública, um do Ceará e outro do Espírito Santo. 27 alunos da região sudeste, que também possui a maior concentração de inscritos. Adicionalmente, 82% se identificam como brancos e 0% como preto.
