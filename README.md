@@ -21,6 +21,7 @@ Para usar os scripts, você precisará instalar os seguintes pacotes Python:
 - ``pandas``
 - ``geopandas``
 - ``matplotlib``
+- ``Seaborn``
 
 
 ## Análises Realizadas
@@ -78,16 +79,16 @@ Para usar os scripts, você precisará instalar os seguintes pacotes Python:
 
 3- Podemos observar que a maioria dos inscritos são do sexo feminino, o que está de acordo com as estatística da população brasileira.
 
-4-
+4- Pelo fato da maioria dos inscritos serem jovens, isso reflete na grande maioria de inscritos solteiros.
 
-5-
+5- A maioria dos inscritos se auto declararam como pardo, o que condiz com a população brasileira.
 
-6-
+6- A maior parte dos inscritos já haviam finalizado o ensino médio ou com finalização prevista para o final do ano da aplicação da prova, tal informação pode ser um indicativo pelo interesse para ingressar no ensino superior gratuito.
 
 7- Concluímos que estudantes de escolas privadas obtiveram uma nota média maior no ENEM 2022 em comparação com os estudantes de escolas públicas.
 Essa disparidade pode indicar diferenças nos recursos educacionais que impactam o desempenho acadêmico.
 
-8-
+8- A distribuição dos inscritos por renda mostra que as classes socioeconômicas mais baixas têm mais interesse na prova do Enem, pela oportunidade de mudança de vida através do ensino superior gratuito.
 
 9-Dos quase 2,4 milhões de participantes do ENEM 2022, apenas 32 (0,001%) alcançaram a nota máxima na redação. Entre os estados, somente 12 estados brasileiros e o Distrito Federal tiveram estudantes que conquistaram a pontuação máxima (1000) nessa prova. Destaca-se a região Sudeste, que se sobressaiu com um total de 21 redações nota 1000, sendo o estado do Rio de Janeiro responsável por 12 dessas pontuações, representando 37,5%. A região do Nordeste também merece destaque, apresentando um índice de sete redações com nota máxima
 
